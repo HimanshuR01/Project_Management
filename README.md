@@ -16,10 +16,9 @@ A RESTful API for managing users, projects, tasks, and comments, built with **Dj
 
 ## 🛠️ Tech Stack
 
-- Python 3.11
-- Django 4.x
+- Python 3.12.3
+- Django 5.2.1
 - Django REST Framework
-- PostgreSQL
 - Docker & Docker Compose
 
 ---
